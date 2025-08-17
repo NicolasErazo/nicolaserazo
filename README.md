@@ -1,6 +1,5 @@
-# Hi there, I am Nicolas Erazo 👋  
-
 <div align="center">
+# Hi there, I am Nicolas Erazo 👋  
   
 I am an **Electronic Engineer** and **Full Stack Developer** passionate about building innovative solutions that merge hardware and software.  
 I have strong skills in designing, developing, and deploying applications, as well as a solid foundation in electronics that allows me to approach problems from both system and software perspectives.  
