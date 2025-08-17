@@ -38,9 +38,9 @@ I have strong skills in designing, developing, and deploying applications, as we
 ---
 
 ## 🏆 GitHub Stats  
-![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolarazo&show_icons=true&theme=radical)  
+![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolaserazo&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolarazo&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaserazo&layout=compact&theme=radical)  
 
 ---
 
