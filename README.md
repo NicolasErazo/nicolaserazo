@@ -12,7 +12,8 @@ I have strong skills in designing, developing, and deploying applications, as we
 ---
 
 ## 🔨 Experience  
-- **Full Stack Developer | CODESA** · 2023 - Present | Remote  
+- **Full Stack Developer | CODESA** · 2023 - Present | Remote
+- **Full Stack Developer | PITECH IND SAS** . 2023 | Remote
 
 ---
 
