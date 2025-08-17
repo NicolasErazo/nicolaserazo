@@ -1,9 +1,11 @@
 # Hi there, I am Nicolas Erazo 👋  
 
-I am an **Electronic Engineer** and **Full Stack Developer** passionate about building innovative solutions that merge hardware and software.  
-I have strong skills in designing, developing, and deploying applications, as well as a solid foundation in electronics that allows me to approach problems from both system and software perspectives.  
-
-💡 I enjoy working on projects that combine creativity, technology, and impact, and I’m always eager to learn new tools and frameworks to stay up-to-date with industry trends.  
+<p align="center">
+  I am an **Electronic Engineer** and **Full Stack Developer** passionate about building innovative solutions that merge hardware and software.  
+  I have strong skills in designing, developing, and deploying applications, as well as a solid foundation in electronics that allows me to approach problems from both system and software perspectives.  
+  
+  💡 I enjoy working on projects that combine creativity, technology, and impact, and I’m always eager to learn new tools and frameworks to stay up-to-date with industry trends.  
+</p>
 
 ---
 
@@ -27,7 +29,7 @@ I have strong skills in designing, developing, and deploying applications, as we
 ---
 
 ## 👨‍💻 Stack Technology  
-<p align="left">
+<p align="center">
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
