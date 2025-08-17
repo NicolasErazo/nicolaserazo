@@ -24,8 +24,7 @@ I have strong skills in designing, developing, and deploying applications, as we
 - **Electronic Engineering** | [UNAD] | [2023]  
 
 ### 📚 Courses & Bootcamps  
-- Full Stack Development | [Platform/Institution] | [Year]  
-- [Other Course/Certificate] | [Year]  
+- Full Stack Portales | [Sophos Solutions] | [2023]   
 
 ---
 
@@ -71,9 +70,6 @@ I have strong skills in designing, developing, and deploying applications, as we
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
 
 ---
-
-### ☁️ Cloud  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="50" height="50"/>
 
 </div>
 
