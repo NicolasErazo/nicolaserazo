@@ -47,7 +47,7 @@ I have strong skills in designing, developing, and deploying applications, as we
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="60"/> &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="60"/>  
+<img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="60"/>
 
 </div>
 
