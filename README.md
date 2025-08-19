@@ -96,7 +96,7 @@ I have strong skills in designing, developing, and deploying applications, as we
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white](https://img.shields.io/badge/Harbor-0F5A74?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Harbor-0F5A74?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 </div>
