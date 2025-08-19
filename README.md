@@ -16,8 +16,8 @@ I have strong skills in designing, developing, and deploying applications, as we
 ---
 
 ## 🔨 Experience  
-- **Full Stack Developer | CODESA** · 2023 - Present | Remote
-- **Full Stack Developer | PITECH IND SAS** . 2023 | Remote
+- **Full Stack Developer | CODESA** · 2023 - Present | Remote  
+- **Full Stack Developer | PITECH IND SAS** · 2023 | Remote  
 
 ---
 
@@ -36,6 +36,43 @@ I have strong skills in designing, developing, and deploying applications, as we
 
 ## 👨‍💻 Stack Technology  
 
+<div align="center">
+
+### 🎨 Frontend  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="60"/>
+
+---
+
+### ⚙️ Backend  
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="60"/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="60"/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="60"/>
+
+</div>
+
+---
+
+### 🗄️ Databases  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="60"/>
+
+---
+
+### 🛠️ Tools & DevOps  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60"/>
+
+---
+
+### 🔹 Badges  
 <p align="center">
   <!-- Lenguajes -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -58,15 +95,9 @@ I have strong skills in designing, developing, and deploying applications, as we
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-
-  <!-- Contacto -->
-  <a href="https://www.linkedin.com/in/nicolaserazo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nico.lacho@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-  </a>
 </p>
+
+</div>
 
 ---
 
