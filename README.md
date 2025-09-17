@@ -117,6 +117,6 @@ I have strong skills in designing, developing, and deploying applications, as we
 
 <div align="center">
 
-💼 [LinkedIn](https://www.linkedin.com/in/nicolaserazo/) • 🌐 [Portfolio](https://nicopage.onrender.com/) • 📫 **nico.lacho@outlook.com**
+💼 [LinkedIn](https://www.linkedin.com/in/nicolaserazo/) • 🌐 [Portfolio](https://portfolio-nicolaserazo.web.app/) • 📫 **nico.lacho@outlook.com**
 
 </div>
